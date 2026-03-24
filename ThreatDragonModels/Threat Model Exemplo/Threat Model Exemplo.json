@@ -1,0 +1,26 @@
+{
+  "version": "2.6.0",
+  "summary": {
+    "title": "Threat Model Exemplo",
+    "owner": "Thiago Nogueira",
+    "description": "Código em python para uso discreto de webcams em sistemas windows.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Novo diagrama STRIDE",
+        "diagramType": "STRIDE",
+        "placeholder": "Descrição de novo diagrama STRIDE",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.0",
+        "cells": []
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
